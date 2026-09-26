@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammed Zaayid</h1>
+<h1 align="center">Hi 👋, I'm Angith Reji</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🌱 I’m currently exploring **Artificial Intelligence**
 
-- 📫 Reach me @**muhammedzaayid4737@gmail.com**
+- 📫 Reach me @**angith1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
