@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Angith Reji</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently exploring **Artificial Intelligence**
+* 🌱 I’m currently exploring **Artificial Intelligence**
 
-- 📫 Reach me @**angith1212@gmail.com**
+* 📫 Reach me @**[angith1212@gmail.com](mailto:angith1212@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammed zaayid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed zaayid" height="30" width="40" /></a>
-<a href="(https://www.instagram.com/angith.r/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angith.r" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/3kuzvmTvAz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3kuzvmTvAz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/angithreji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angithreji" height="30" width="40" /></a>
+<a href="https://www.instagram.com/angith.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angith.r" height="30" width="40" /></a>
+<a href="https://github.com/angithr" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="angithr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
